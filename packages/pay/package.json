@@ -1,0 +1,26 @@
+{
+  "name": "pay",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "zhaorubo <zhaorubo@leyaoyao.com>",
+  "homepage": "https://github.com/ZrbJava/getting-started-example#readme",
+  "license": "ISC",
+  "main": "lib/pay.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZrbJava/getting-started-example.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/pay.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/ZrbJava/getting-started-example/issues"
+  }
+}

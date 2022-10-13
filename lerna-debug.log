@@ -1,5 +1,5 @@
 50 error Error: Command failed with exit code 1: git push --follow-tags --no-verify --atomic origin main
-50 error error: RPC failed; curl 56 OpenSSL SSL_read: Connection was reset, errno 10054
+50 error error: RPC failed; curl 28 OpenSSL SSL_read: Connection was reset, errno 10054
 50 error send-pack: unexpected disconnect while reading sideband packet
 50 error fatal: the remote end hung up unexpectedly
 50 error Everything up-to-date
