@@ -1,5 +1,7 @@
-49 error Error: Command failed with exit code 128: git push --follow-tags --no-verify --atomic origin prelerna
-49 error remote: Permission to lerna/getting-started-example.git denied to ZrbJava.
-49 error fatal: unable to access 'https://github.com/lerna/getting-started-example.git/': The requested URL returned error: 403
-49 error     at makeError (E:\leyaoyao\study\getting-started-example\node_modules\execa\lib\error.js:60:11)
-49 error     at handlePromise (E:\leyaoyao\study\getting-started-example\node_modules\execa\index.js:118:26)
+50 error Error: Command failed with exit code 1: git push --follow-tags --no-verify --atomic origin main
+50 error error: RPC failed; curl 56 OpenSSL SSL_read: Connection was reset, errno 10054
+50 error send-pack: unexpected disconnect while reading sideband packet
+50 error fatal: the remote end hung up unexpectedly
+50 error Everything up-to-date
+50 error     at makeError (E:\leyaoyao\study\getting-started-example\node_modules\execa\lib\error.js:60:11)
+50 error     at handlePromise (E:\leyaoyao\study\getting-started-example\node_modules\execa\index.js:118:26)
