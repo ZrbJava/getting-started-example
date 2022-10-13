@@ -1,5 +1,5 @@
 {
-  "name": "pay",
+  "name": "test-pay",
   "version": "1.0.1-alpha.0",
   "description": "> TODO: description",
   "author": "zhaorubo <zhaorubo@leyaoyao.com>",
@@ -22,5 +22,6 @@
   },
   "bugs": {
     "url": "https://github.com/ZrbJava/getting-started-example/issues"
-  }
+  },
+  "gitHead": "22ec14d3264775c34af1d87c8957188f71162582"
 }
