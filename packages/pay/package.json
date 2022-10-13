@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/ZrbJava/getting-started-example/issues"
   },
-  "gitHead": "22ec14d3264775c34af1d87c8957188f71162582"
+  "gitHead": "22ec14d3264775c34af1d87c8957188f71162582",
+  "dependencies": {
+    "loadsh": "^0.0.4",
+    "npmlog": "^6.0.2"
+  }
 }

@@ -1,10 +1,16 @@
 {
-  "name": "root",
-  "private": true,
-  "devDependencies": {
-    "lerna": "^6.0.0"
-  },
-  "workspaces": [
-    "packages/*"
-  ]
+	"name": "root",
+	"private": true,
+	"devDependencies": {
+		"lerna": "^6.0.0"
+	},
+	"workspaces": [
+		"packages/*"
+	],
+	"changelog": {
+		"labels": {
+			"feature": "New Feature",
+			"bug": "Bug Fix"
+		}
+	}
 }
