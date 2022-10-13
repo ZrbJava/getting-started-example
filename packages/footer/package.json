@@ -1,6 +1,6 @@
 {
   "name": "test-footer",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "dist/index.js",
   "scripts": {
     "build": "rimraf dist && rollup --config",
